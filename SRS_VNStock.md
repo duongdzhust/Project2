@@ -1,6 +1,8 @@
 # TÀI LIỆU ĐẶC TẢ KỸ THUẬT (SYSTEM REQUIREMENTS SPECIFICATION - SRS)
 **Dự án:** VNStock SmartView
+
 **Mô hình:** Client-Side Rendering (CSR) / Serverless
+
 **Phiên bản:** 1.0
 
 ---
