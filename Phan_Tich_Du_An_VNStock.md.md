@@ -1,7 +1,7 @@
 # TÀI LIỆU PHÂN TÍCH YÊU CẦU DỰ ÁN (PRD)
-**Tên dự án:** VNStock SmartView (Hệ thống Phân tích & Khuyến nghị Cổ phiếu VN)
-**Phiên bản:** 1.0.0
-**Ngày lập:** 16/05/2026
+**Tên dự án:** VNStock SmartView (Hệ thống Phân tích & Khuyến nghị Cổ phiếu VN) 
+**Phiên bản:** 1.0.0 
+**Ngày lập:** 16/05/2026 
 **Tác giả:** Dương Phạm
 
 ---
